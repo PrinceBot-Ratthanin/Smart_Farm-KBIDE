@@ -12,5 +12,5 @@
   "platform": ["arduino-esp32"],
   "license": "MIT",
   "image" : "/static/display.jpg",
-  "homepage": "https://github.com/adafruit/DHT-sensor-library/"
+  "homepage": "https://github.com/PrinceBot-Ratthanin/Smart_Farm-KBIDE/"
 }
